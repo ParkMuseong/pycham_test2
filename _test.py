@@ -8,6 +8,8 @@ class MyTestCase(unittest.TestCase):
 def aasd(make_test):
     print("Asd")
 
+def make_test():
+    new_val="123"
 
 if __name__ == '__main__':
     unittest.main()
