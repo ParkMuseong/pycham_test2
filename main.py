@@ -12,6 +12,8 @@ def print_hi(name):
 
 # 무성이도 넘모 귀여웡!!!
 
+# 댕댕이는 우동을 호록호록 먹어양!
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
